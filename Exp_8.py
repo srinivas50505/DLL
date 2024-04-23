@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
@@ -34,10 +28,3 @@ for i, sample in enumerate(text_data):
 
 print("\nCharacter-level one-hot encoding:")
 print(char_one_hot)
-
-
-# In[ ]:
-
-
-
-
