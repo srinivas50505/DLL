@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[5]:
-
-
 import numpy as np
 from tensorflow.keras.applications import VGG16
 from tensorflow.keras.preprocessing import image
@@ -26,10 +20,3 @@ predictions = model.predict(x)
 decoded_predictions = decode_predictions(predictions, top=3)[0]  # Get top 3 predictions
 for i, (imagenet_id, label, score) in enumerate(decoded_predictions):
     print(f"{i + 1}: {label} ({score:.2f})")
-
-
-# In[ ]:
-
-
-
-
