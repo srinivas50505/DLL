@@ -4,7 +4,9 @@ __List of Experiments:__
 
 2. Design a neural network for classifying movie reviews (Binary Classification) using IMDB dataset.
 
-3. Design a neural Network for classifying news wires (Multi class classification) using Reuters dataset. 4. Design a neural network for predicting house prices using Boston Housing Price dataset.
+3. Design a neural Network for classifying news wires (Multi class classification) using Reuters dataset.
+
+4. Design a neural network for predicting house prices using Boston Housing Price dataset.
 
 5. Build a Convolution Neural Network for MNIST Hand written Digit Classification.
 
