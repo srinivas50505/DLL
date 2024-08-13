@@ -1,0 +1,14 @@
+List of Experiments:
+
+1.	Implement multilayer perceptron algorithm for MNIST Hand written Digit Classification.
+2.	Design a neural network for classifying movie reviews (Binary Classification) using IMDB dataset.
+3.	Design a neural Network for classifying news wires (Multi class classification) using Reuters dataset.
+4.	Design a neural network for predicting house prices using Boston Housing Price dataset.
+5.	Build a Convolution Neural Network for MNIST Hand written Digit Classification.
+6.	Build a Convolution Neural Network for simple image (dogs and Cats) Classification
+7.	Use a pre-trained convolution neural network (VGG16) for image classification.
+8.	Implement one hot encoding of words or characters.
+9.	Implement word embeddings for IMDB dataset.
+10.	Implement a Recurrent Neural Network for IMDB movie review classification problem.
+Text Books:
+1. Reza Zadeh and BharathRamsundar, "Tensorflow for Deep Learning", O'Reilly publishers, 2018
